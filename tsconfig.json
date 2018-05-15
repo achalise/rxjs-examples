@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "module": "commonjs",
+        "target": "es5",
+        "sourceMap": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "experimentalDecorators": true,
+        "allowJs": true,
+        "noImplicitAny": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
